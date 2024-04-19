@@ -36,7 +36,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Corvus.Testing.SpecFlow.NUnit" Version="1.6.0" />
+    <PackageReference Include="Corvus.Testing.SpecFlow.NUnit" Version="3.0.2" />
   </ItemGroup>
 
   <ItemGroup>
